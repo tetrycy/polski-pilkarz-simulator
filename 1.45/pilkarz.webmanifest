@@ -1,0 +1,28 @@
+{
+  "id": "./",
+  "name": "Polski Piłkarz Simulator",
+  "short_name": "Polski Piłkarz",
+  "description": "Kariera polskiego piłkarza od regionalnych boisk po reprezentację.",
+  "lang": "pl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#efe9dc",
+  "theme_color": "#c9252d",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "pilkarz-icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pilkarz-icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
